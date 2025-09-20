@@ -1,7 +1,3 @@
-Parfait 🙌, un bon **README.md** donne toutes les infos essentielles pour comprendre et exécuter ton projet.
-Voici un modèle complet et adapté à ton **projet MovieLens – Système de recommandation**. Tu pourras le copier dans ton dépôt GitHub (`README.md`).
-
----
 
 # 🎬 Système de Recommandation de Films – MovieLens
 
